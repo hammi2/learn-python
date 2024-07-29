@@ -1,0 +1,354 @@
+[
+  {
+    "id": "1",
+    "url": "https://i.ytimg.com/vi/WvhQhj4n6b8/maxresdefault.jpg",
+    "title": "What Is Python ?",
+    "videoUrl": "h3VCQjyaLws",
+    "description": "Introduction to Python programming language."
+  },
+  {
+    "id": "2",
+    "title": "Questions And Answers",
+    "url": "https://www.edureka.co/blog/wp-content/uploads/2017/06/Python-Interview-Questions.png",
+    "videoUrl": "t-bCLbmgesI",
+    "description": "Common questions and answers about Python."
+  },
+  {
+    "id": "3",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoll8KuIhnQUT8HRfWdHypcf2T-LTHlKZRoqbUGVGqB1p3IFyo08N-YKVUp73wbLAk2g&usqp=CAU",
+    "title": "Install Python",
+    "videoUrl": "WTRKeSoynKI",
+    "description": "How to install Python on your computer."
+  },
+  {
+    "id": "4",
+    "url": "https://www.tutorials24x7.com/sites/default/files/styles/blog_landing_page/public/blog-banner/2020-06/tutorials24x7-install-pycharm-for-python-on-ubuntu-banner.jpg?itok=18jTPFFj",
+    "title": "Install PyCharm",
+    "videoUrl": "SMyzYOPGeD8",
+    "description": "How to install PyCharm IDE for Python development."
+  },
+  {
+    "id": "5",
+    "url": "https://miro.medium.com/v2/resize:fit:768/1*lGR0gfZzZMNk7DoRx-vmQA.png",
+    "title": "Write The First Code",
+    "videoUrl": "oMMW_Cx0qW8",
+    "description": "Writing your first Python code."
+  },
+  {
+    "id": "6",
+    "url": "https://cdnp2.stackassets.com/9b6a3394de93191cd6c2267270152768fec428f7/store/48ef73f98273a1b3333b0ee29caca7412698b8d855fe7afcea23ec0d4008/product_217379_product_shots1.jpg",
+    "title": "Make Your First Program",
+    "videoUrl": "Vl1mHJMrEnk",
+    "description": "Creating your first Python program."
+  },
+  {
+    "id": "7",
+    "url": "https://i.ytimg.com/vi/syH5OneJb-U/maxresdefault.jpg",
+    "title": "Python Variables",
+    "videoUrl": "gQxch0k9B0E",
+    "description": "Understanding and using variables in Python."
+  },
+  {
+    "id": "8",
+    "url": "https://i.ytimg.com/vi/lSItwlnF0eU/mqdefault.jpg",
+    "title": "Python Strings",
+    "videoUrl": "5O_m0IGwQLw",
+    "description": "Working with strings in Python."
+  },
+  {
+    "id": "9",
+    "url": "https://www.besanttechnologies.com/wp-content/uploads/2019/05/python-numbers.jpg",
+    "title": "Python Numbers",
+    "videoUrl": "HjfiVp0L3LI",
+    "description": "Handling numbers in Python."
+  },
+  {
+    "id": "10",
+    "url": "https://www.besanttechnologies.com/wp-content/uploads/2019/05/python-input-and-output.jpg",
+    "title": "Python Inputs",
+    "videoUrl": "bWE45B_O9Lk",
+    "description": "Taking user input in Python."
+  },
+  {
+    "id": "11",
+    "url": "https://softcodeon.com/wp-content/uploads/2023/02/Create-A-Python-Calculator.jpg",
+    "title": "Build Calculator in Python",
+    "videoUrl": "hYC0ObXfGjs",
+    "description": "Creating a calculator in Python."
+  },
+  {
+    "id": "12",
+    "url": "https://i.ytimg.com/vi/O1m_UIr7wOQ/hqdefault.jpg",
+    "title": "Build MadLibs in Python",
+    "videoUrl": "N57Xvo8ilMw",
+    "description": "Creating a MadLibs game in Python."
+  },
+  {
+    "id": "13",
+    "url": "https://i.ytimg.com/vi/rrGmQbmTfiA/maxresdefault.jpg",
+    "title": "Python Lists",
+    "videoUrl": "EgwCjNCx_v4",
+    "description": "Using lists in Python."
+  },
+  {
+    "id": "14",
+    "url": "https://i.ytimg.com/vi/rrGmQbmTfiA/maxresdefault.jpg",
+    "title": "Python Lists 2",
+    "videoUrl": "SGp9syExKxk",
+    "description": "Advanced list operations in Python."
+  },
+  {
+    "id": "15",
+    "title": "Python Tuples",
+    "videoUrl": "PNMSop-0kwM",
+    "description": "Working with tuples in Python.",
+    "url": "https://i.ytimg.com/vi/wRC4H-k57eg/hqdefault.jpg"
+  },
+  {
+    "id": "16",
+    "title": "Python Functions",
+    "videoUrl": "b4AEoHvCD_A",
+    "description": "Defining and using functions in Python.",
+    "url": "https://i.ytimg.com/vi/TUk40YMGJFA/maxresdefault.jpg"
+  },
+  {
+    "id": "17",
+    "title": "Python Functions 2",
+    "videoUrl": "HjiAlW4fbRw",
+    "description": "Advanced function usage in Python.",
+    "url": "https://i.ytimg.com/vi/TUk40YMGJFA/maxresdefault.jpg"
+  },
+  {
+    "id": "18",
+    "title": "Python Conditionals",
+    "videoUrl": "IT1C46MDoxo",
+    "description": "Using conditional statements in Python.",
+    "url": "https://i.ytimg.com/vi/RjlgfjKNl4g/sddefault.jpg"
+  },
+  {
+    "id": "19",
+    "title": "Python Comparisons",
+    "videoUrl": "WCN4GDOZitU",
+    "description": "Comparison operators in Python.",
+    "url": "https://files.codingninjas.in/article_images/python-comparison-operators-0-1699538039.webp"
+  },
+  {
+    "id": "20",
+    "title": "Build Calculator in Python 2",
+    "videoUrl": "Vj8zWPW5kKg",
+    "description": "Creating an advanced calculator in Python.",
+    "url": "https://softcodeon.com/wp-content/uploads/2023/02/Create-A-Python-Calculator.jpg"
+  },
+  {
+    "id": "21",
+    "title": "Python Dictionaries",
+    "videoUrl": "mQ4AkeafCds",
+    "description": "Using dictionaries in Python.",
+    "url": "https://i.ytimg.com/vi/rZjhId0VkuY/maxresdefault.jpg"
+  },
+  {
+    "id": "22",
+    "title": "Python While Loop",
+    "videoUrl": "TXQSACBnvZ0",
+    "description": "Using while loops in Python.",
+    "url": "https://i.ytimg.com/vi/JKK13i_ApOw/maxresdefault.jpg"
+  },
+  {
+    "id": "23",
+    "title": "Build a Snake game with Python",
+    "videoUrl": "NFqjO5z1jx0",
+    "description": "Creating a Snake game in Python.",
+    "url": "https://miro.medium.com/v2/resize:fit:600/1*Rt47CrQFFJ9Y-tWKGBTudQ.jpeg"
+  },
+  {
+    "id": "24",
+    "title": "Python For Loop",
+    "videoUrl": "kXKcuqISXYo",
+    "description": "Using for loops in Python.",
+    "url": "https://i.ytimg.com/vi/F6k-inxVbio/mqdefault.jpg"
+  },
+  {
+    "id": "25",
+    "title": "Python Sets",
+    "videoUrl": "kp-LJqgJPmI",
+    "description": "Using sets in Python.",
+    "url": "https://www.besanttechnologies.com/wp-content/uploads/2019/07/python-sets.jpg"
+  },
+  {
+    "id": "26",
+    "title": "Python Power()",
+    "videoUrl": "muBnHp9JufE",
+    "description": "Using the power function in Python.",
+    "url": "https://files.codingninjas.in/article_images/power-function-23129.webp"
+  },
+  {
+    "id": "27",
+    "title": "Python 2D Lists & Nested Loops",
+    "videoUrl": "BXsVpjWKr2Q",
+    "description": "Working with 2D lists and nested loops in Python.",
+    "url": "https://i.ytimg.com/vi/dsLpJxu3ihI/maxresdefault.jpg"
+  },
+  {
+    "id": "28",
+    "title": "Python Comments",
+    "videoUrl": "_5z9fX2vfDs",
+    "description": "Using comments in Python.",
+    "url": "https://i.ytimg.com/vi/yHFcNNh-SsA/maxresdefault.jpg"
+  },
+  {
+    "id": "29",
+    "title": "Python Errors",
+    "videoUrl": "jevAO7QlkQQ",
+    "description": "Handling errors in Python.",
+    "url": "https://softcodeon.com/wp-content/uploads/2023/02/Create-A-Python-Calculator.jpg"
+  },
+  {
+    "id": "30",
+    "title": "Python Reading Files",
+    "videoUrl": "ZCmdm-RuRFA",
+    "description": "Reading files in Python.",
+    "url": "https://miro.medium.com/v2/resize:fit:1120/1*hof9UgU9wz46UkipUdVCiQ.png"
+  },
+  {
+    "id": "31",
+    "title": "Python Writing Files",
+    "videoUrl": "fVgRlbFAoeU",
+    "description": "Writing files in Python.",
+    "url": "https://miro.medium.com/v2/resize:fit:1120/1*hof9UgU9wz46UkipUdVCiQ.png"
+  },
+  {
+    "id": "32",
+    "title": "Python Modules",
+    "videoUrl": "Qj58RxZPw7c",
+    "description": "Using modules in Python.",
+    "url": "https://www.besanttechnologies.com/wp-content/uploads/2019/05/python-modules.jpg"
+  },
+  {
+    "id": "33",
+    "title": "Python Classes & Objects",
+    "videoUrl": "cqopVpEWvCc",
+    "description": "Understanding classes and objects in Python.",
+    "url": "https://www.gangboard.com/wp-content/uploads/2019/05/python-class-and-object.jpg"
+  },
+  {
+    "id": "34",
+    "title": "Python Class Functions",
+    "videoUrl": "ZaQgQN2HTGY",
+    "description": "Using class functions in Python.",
+    "url": "https://cdn.educba.com/academy/wp-content/uploads/2020/02/Python-Class-Attributes.jpg"
+  },
+  {
+    "id": "35",
+    "title": "Python Class Inheritance",
+    "videoUrl": "93_JLg55jGM",
+    "url": "https://cdn.educba.com/academy/wp-content/uploads/2020/04/Multilevel-Inheritance-in-Python.jpg",
+    "description": "Understanding class inheritance in Python."
+  },
+  {
+    "id": "36",
+    "title": "Python Pong Game",
+    "videoUrl": "xzuguCSizWw",
+    "url": "https://data-flair.training/blogs/wp-content/uploads/sites/2/2022/02/python-pong-game-project.webp",
+    "description": "Building a Pong game using Python."
+  },
+  {
+    "id": "37",
+    "title": "Python Object Oriented Programming",
+    "videoUrl": "A9kSngn7254",
+    "url": "https://www.techopedia.com/wp-content/uploads/2011/05/1-What-is-Object-Oriented-Programming-OOP-scaled.jpg",
+    "description": "Introduction to object-oriented programming in Python."
+  },
+  {
+    "id": "38",
+    "title": "OOP project Python | Build Tic Tac Toe",
+    "videoUrl": "GCYYkOSKj80",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSom8ODdM3_cYXIfcjzhqdp7QaSOBs5LPudHA&s",
+    "description": "Creating a Tic Tac Toe game using OOP in Python."
+  },
+  {
+    "id": "39",
+    "title": "Python Special / Dunder Methods",
+    "videoUrl": "8BCN8gXbBY8",
+    "url": "https://miro.medium.com/v2/resize:fit:495/1*45AG6n9POlRAyZ53m0xFLA.jpeg",
+    "description": "Understanding special (dunder) methods in Python."
+  },
+  {
+    "id": "40",
+    "title": "Web Scraping with Python Beautiful Soup",
+    "videoUrl": "q0ert5YP968",
+    "url": "https://cdn.hashnode.com/res/hashnode/image/upload/v1675539254031/7f7d67d6-99e2-43ea-9d0d-3ba16c39fbff.png",
+    "description": "Using Beautiful Soup for web scraping in Python."
+  },
+  {
+    "id": "41",
+    "title": "How to Convert a Python File to .EXE",
+    "videoUrl": "OM0qcZRIfSg",
+    "url": "https://i.ytimg.com/vi/drBIgmIzqiY/maxresdefault.jpg",
+    "description": "Converting Python scripts to executable files."
+  },
+  {
+    "id": "42",
+    "title": "Python *args - Python args, kwargs & unpacking operators",
+    "videoUrl": "qXpjgykUxgM",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1-z6eiB66FDlV8RgYRux5ExVvddqzhi3lg2xZsTuoS9eqYjQGjpT6n-qLGT-M4ohJ9f0&usqp=CAU",
+    "description": "Using *args for variable-length arguments in Python."
+  },
+  {
+    "id": "43",
+    "title": "Python **kwargs - Python args, kwargs & unpacking operators",
+    "videoUrl": "PhnPgml7O30",
+    "url": "https://softcodeon.com/wp-content/uploads/2023/02/Create-A-Python-Calculator.jpg",
+    "description": "Using **kwargs for keyword arguments in Python."
+  },
+  {
+    "id": "44",
+    "title": "Python unpacking operators - Python args, kwargs & unpacking operators",
+    "videoUrl": "QLJn3fFsy1k",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1-z6eiB66FDlV8RgYRux5ExVvddqzhi3lg2xZsTuoS9eqYjQGjpT6n-qLGT-M4ohJ9f0&usqp=CAU",
+    "description": "Using unpacking operators in Python."
+  },
+  {
+    "id": "45",
+    "title": "Web Scraping with Python Beautiful Soup",
+    "videoUrl": "taL3r_JpwBg",
+    "url": "https://cdn.hashnode.com/res/hashnode/image/upload/v1675539254031/7f7d67d6-99e2-43ea-9d0d-3ba16c39fbff.png",
+    "description": "Advanced web scraping techniques with Beautiful Soup."
+  },
+  {
+    "id": "46",
+    "title": "Python Turtle Crash Course",
+    "videoUrl": "XK4PMXb056c",
+    "url": "https://media.geeksforgeeks.org/wp-content/uploads/20240122182440/Python-Crash-Course.gif",
+    "description": "Introduction to the Turtle graphics library in Python."
+  },
+  {
+    "id": "47",
+    "title": "Build To Do List Application with Python",
+    "videoUrl": "xNm6y8SYcs4",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-3EeQyr6kpbTxpEwry0HiKubuC5s8k3oxA&s",
+    "description": "Creating a To-Do list application using Python."
+  },
+  {
+    "id": "48",
+    "title": "OOP Python Data Class",
+    "videoUrl": "HJkY_Bbiqcc",
+    "url": "https://i.ytimg.com/vi/_uYorV9ebLg/maxresdefault.jpg",
+    "description": "Using data classes in Python for OOP."
+  },
+  {
+    "id": "49",
+    "title": "Python Pytest - Python Testing Course",
+    "videoUrl": "y_j4TqS-I6A",
+    "url": "https://i.ytimg.com/vi/byaxg00Gf9I/maxresdefault.jpg",
+    "description": "Introduction to testing in Python using Pytest."
+  }
+]
+
+
+
+
+
+
+
+
+

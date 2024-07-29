@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "python_learn",
+    "slug": "python_learn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://cdn-icons-png.flaticon.com/256/11229/11229402.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/loading.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "https://cdn-icons-png.flaticon.com/512/28/28884.png",
+        "backgroundColor": "#000000"
+      },
+      "icon": "https://cdn-icons-png.flaticon.com/256/11229/11229402.png"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ecf182fc-0c62-4ea9-b78c-26ed47f5492f"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/ecf182fc-0c62-4ea9-b78c-26ed47f5492f"
+    },
+    "owner": "reactgamal"
+  }
+}

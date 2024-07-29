@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "url": "https://blog.arthonsys.com/wp-content/uploads/2019/06/Python-Web-Development-with-Django.jpg",
+    "des": "Django Is The One Of The Most Libraries For Back End Development",
+    "lib": "Django Web Develop By Python",
+    "videoUrl":"n4wKThXxOnQ"
+  },
+  {
+    "id": "2",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxdGUpPa-lrQALnxw578iAM46UXG53kKhOtQ&s",
+    "des": "Flask is a lightweight WSGI web application framework written in Python.",
+    "lib": "Flask For Begin Web Server By Python",
+    "videoUrl": "FWFVP987toI"
+  },
+  {
+    "id": "3",
+    "url": "https://i.ytimg.com/vi/Z1N9JzNax2k/maxresdefault.jpg",
+    "des": "Enables Python developers to create GUI applications with Python.",
+    "lib": "Qt Desktop Application",
+    "videoUrl": "sspqfXeB46E"
+  },
+
+  {
+    "id": "4",
+    "url": "https://i.ytimg.com/vi/WkGFqxHoOfI/mqdefault.jpg",
+    "des": "Kivy is a free and open-source Python library used to develop mobile apps, desktop apps, and web applications with a native look and feel.",
+    "lib": "Build A Mobile Application with Python kivy",
+    "videoUrl": "16iMWWGFBiA"
+  },
+  {
+    "id":"5",
+    "url":"https://cdnp0.stackassets.com/2134382c3d923d6921eef698db0b7e151c29c0ad/store/53e987121f9db96843ac7e8a9fb403181e4c317dfe28e500b8182115174c/product_217381_product_shot_wide.jpg",
+    "des":"Data Analysis: Transforming data into actionable insights.",
+    "lib":"Data Analysis By Python",
+    "videoUrl":"Gs5HCemaH30"
+  },
+  {
+    "id":"6",
+    "url":"https://img-c.udemycdn.com/course/750x422/3566335_df9e_4.jpg",
+    "lib":"AI With Python",
+    "des":"OpenCV: Unleash computer vision and machine learning capabilities in your applications.",
+    "videoUrl":"R209hItdu0k"
+  }
+]
